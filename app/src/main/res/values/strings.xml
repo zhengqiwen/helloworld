@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+-<resources>
     <!-- various key to store the setting values -->
     <string name="id_address">Address</string>
     <string name="id_name">Name</string>
