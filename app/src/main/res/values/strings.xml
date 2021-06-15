@@ -3,7 +3,6 @@
     tools:ignore="MissingTranslation">
     <!-- various key to store the setting values -->
     <string name="id_address">Address</string>
-    <string name="id_name">Name</string>
-	<string name="id_phone">Phone</string>
+	<string name="id_phone">My Phone</string>
 	<string name="id_age">Age</string>
 </resources>
